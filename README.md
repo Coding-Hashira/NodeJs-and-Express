@@ -9,7 +9,7 @@ I'll add my learnings in the [Learn](/Learn) folder,and projects in [Projects](/
 
 Let's learn together! :handshake:
 
-> **NOTE:** As I'm currently learning NodeJs and Express, this repository is not yet finished. I'll be updating it as I'll learn new topics and build more projects. And most probably, for now, those updates will come on Weekends! 😉
+> **NOTE:** As I'm currently learning NodeJs and Express, this repository is not yet finished. I'll be updating it as I'll learn new topics and build more projects. And most probably, those updates will come on Weekends! 😉
 
 ## Features of This Repo
 - 📃 Well Documented
